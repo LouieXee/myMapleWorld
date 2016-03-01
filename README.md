@@ -11,4 +11,5 @@
 
 移动端有做简单的适配，但是没有完美适配。
 
-具体的开发心得会稍后在其他页面中写出...
+[MyMapleWorld cocos2d-js 首次实践总结(1) 关于状态切换](https://github.com/LouieXie/blog/issues/2)
+[MyMapleWorld cocos2d-js 首次实践总结(2) 关于DisplayObj](https://github.com/LouieXie/blog/issues/3)
